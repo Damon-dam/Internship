@@ -1,0 +1,51 @@
+.body{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 20vw;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 25vw;
+    width: 30vw;
+    border-radius: 8px;
+    box-shadow: 0 -2px 20px rgba(0, 0, 0, 0.3);    
+}
+.prof-pic img{
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border: 1px solid lightseagreen;
+    margin-top: 3vw;
+    border-radius: 50%;
+}
+h3{
+    color: lightseagreen;
+}
+button{
+    border: none;
+    background-color: lightseagreen;
+    margin: 5px;
+    height: 3vw;
+    width: 10vw;
+    color: wheat;
+    font-weight: 900;
+    border-radius: 8px;
+}
+p{
+    opacity: 0.7;
+}
+.icons{
+    padding: 5px;
+}
+.icons i{
+    padding: 5px;
+}
+.icons i:hover{
+    color: lightseagreen;
+}
