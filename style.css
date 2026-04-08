@@ -6,11 +6,12 @@
     padding: 0;
 }
 .container{
-    margin-top: 20vw;
+    margin-top: 10vw;
+    margin-left: 30vw;
     align-items: center;
     justify-content: center;
     text-align: center;
-    height: 25vw;
+    height: 30vw;
     width: 30vw;
     border-radius: 8px;
     box-shadow: 0 -2px 20px rgba(0, 0, 0, 0.3);    
@@ -18,9 +19,9 @@
 .prof-pic img{
     align-items: center;
     justify-content: center;
-    height: 50px;
-    width: 50px;
-    border: 1px solid lightseagreen;
+    height: 7vw;
+    width: 7vw;
+    border: 5px solid lightseagreen;
     margin-top: 3vw;
     border-radius: 50%;
 }
@@ -45,6 +46,8 @@ p{
 }
 .icons i{
     padding: 5px;
+    opacity: 0.5;
+    font-size: 20px;
 }
 .icons i:hover{
     color: lightseagreen;
